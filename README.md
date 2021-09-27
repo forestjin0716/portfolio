@@ -6,8 +6,8 @@
 
 # :pushpin:Contact
 + 이메일 : forestJin.07616@gamil.com
-+ 블로그 : forestjin.tistory.com (https://forestjin.tistory.com)
-+ 깃헙 : github.com/forestjin0716
++ 블로그 : [forestjin.tistory.com](https://forestjin.tistory.com)
++ 깃헙 : [github.com/forestjin0716](https://github.com/forestjin0716)
 
 # :pushpin:Projects
 ### 1. 프로젝트1
